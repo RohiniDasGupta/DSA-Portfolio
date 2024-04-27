@@ -1,4 +1,4 @@
-#Hashing Programs
+##Hashing Programs
 
 ```c
 #include <stdio.h>
