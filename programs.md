@@ -1,5 +1,3 @@
-# DSA portfolio
-
 ## Insertion in Circular Linked Lists
 
 ```c
